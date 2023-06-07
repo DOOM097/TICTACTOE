@@ -1,0 +1,35 @@
+.root {
+    -fx-background-color: grey;
+    -fx-padding: 30px;
+    -fx-font-size: 20px;
+
+}
+ 
+.info {
+    -fx-text-fill: whitesmoke;
+}
+ 
+.button {
+    -fx-base: red;
+}
+ 
+.game-controls {
+    -fx-spacing: 20px;
+    -fx-alignment: center;
+}
+ 
+.status-indicator {
+    -fx-alignment: center;
+    -fx-padding: 16px;
+}
+ 
+.board {
+    -fx-background-color: grey;
+    -fx-hgap: 10px;
+    -fx-vgap: 10px;
+}
+ 
+.square {
+    -fx-padding: 10px;
+    -fx-background-color: azure;
+}
